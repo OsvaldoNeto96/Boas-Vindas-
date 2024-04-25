@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Osvaldo Neto! 😁
+## Bem-vindo(a) ao meu perfil! 😁
 
  <div>
   <a href="https://github.com/netinhosf">
